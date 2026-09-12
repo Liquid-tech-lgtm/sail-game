@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Future build tooling (Node/TS), harmless if unused
+node_modules/
+dist/
+build/
+.cache/
+*.tsbuildinfo
+
+# Env / secrets
+.env
+.env.local
